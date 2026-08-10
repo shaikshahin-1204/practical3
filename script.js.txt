@@ -1,0 +1,5 @@
+script.js
+function showMessage() {
+    document.getElementById("message").innerText =
+        "Website deployed successfully using GitHub Actions!";
+}
